@@ -1,0 +1,90 @@
+.f1 table tr td{
+    border: 1px solid black;
+    width: 100px;
+
+
+}
+.f1 table {
+    border: 1px solid black;
+}
+
+.name{
+    margin: 0 0 0 0;
+}
+.back{
+    width: 298px;
+    height: 202px;
+    background: black;
+    border: solid black 2px;
+}
+.white {
+    width: 298px;
+    height: 67px;
+    background: white;
+
+
+}
+
+.blue {
+    width: 298px;
+    height: 67px;
+    background: blue;
+
+}
+
+.red {
+    width: 298px;
+    height: 67px;
+    background: red;
+
+}
+
+.back{
+    width: 298px;
+    height: 202px;
+    background: black;
+    border: solid black 2px;
+}
+
+.white-japan{
+    width: 298px;
+    height: 202px;
+    background: white;
+    border: solid black 2px;
+    margin-top: 5px;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    margin: 30px 100px 120px 73px;
+    -webkit-border-radius: 80px;
+    -moz-border-radius: 80px;
+    border-radius: 80px;
+    background: red;
+}
+
+.main{
+    float: left;
+    font-size: 30px;
+    background: black;
+    margin:10px 0 0 10px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.main:nth-child(2n){
+    float: left;
+    font-size: 30px;
+    background: cadetblue;
+    margin:10px 0 0 10px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.main:hover{
+    background: orange;
+
+}
